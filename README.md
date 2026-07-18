@@ -1,8 +1,8 @@
 # Hi, I'm Mohammad Yasin 👋
 
-**Python Developer · Prompt Engineer · AI & Telegram Bot Builder**
+**Python Developer · Prompt Engineer · AI & Telegram Bot Builder · Multimedia Specialist**
 
-I design and ship production-ready Python systems, craft high-performance prompts for large language models, and build intelligent Telegram bots and AI-powered applications. Passionate about teaching Python and AI to the next generation of developers.
+I design and ship production-ready Python systems, craft high-performance prompts for large language models, build intelligent Telegram bots and AI-powered applications, and produce polished multimedia content. Passionate about teaching Python and AI to the next generation of developers.
 
 ---
 
@@ -12,6 +12,8 @@ I design and ship production-ready Python systems, craft high-performance prompt
 - 🤖 **Prompt Engineering** — Designing structured, reliable prompts for LLM-powered systems
 - 📚 **Python & AI Education** — Teaching fundamentals through advanced concepts
 - ✈️ **Telegram Bot Development** — Feature-rich bots, integrations, AI agents
+- 🎬 **Video Editing & Design** — Professional content creation, motion graphics, post-production
+- 🐧 **Linux & DevOps** — System administration, shell scripting, server management
 
 ---
 
@@ -19,7 +21,7 @@ I design and ship production-ready Python systems, craft high-performance prompt
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Async](https://img.shields.io/badge/AsyncIO-000000?style=flat-square&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-000000?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **AI & LLMs**
@@ -27,11 +29,27 @@ I design and ship production-ready Python systems, craft high-performance prompt
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
+**Multimedia & Design**
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+**Operating System**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-yasin-karami&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -48,6 +66,12 @@ I design and ship production-ready Python systems, craft high-performance prompt
 
 ---
 
+### 📄 Resume
+
+👉 **[View my full resume →](RESUME.md)**
+
+---
+
 ### 🤝 Let's Connect
 
 <p>
@@ -59,5 +83,5 @@ I design and ship production-ready Python systems, craft high-performance prompt
 ---
 
 <p align="center">
-  <i>Building reliable systems, one prompt at a time.</i>
+  <i>Building reliable systems and creative content, one prompt at a time.</i>
 </p>
